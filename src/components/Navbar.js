@@ -60,9 +60,7 @@ const Navbar = () => {
         ))}
 
       </NavMenu>
-      <Button> 
-        helllo
-        </Button>
+     
     </Nav>
 
   );
